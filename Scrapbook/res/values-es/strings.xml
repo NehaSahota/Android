@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Scrapbook</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="trevi_fountain1">Fuente de Trevi</string>
+      <string name="colosseum1">Coliseo</string>
+      <string name="eiffel1">Torre Eiffel</string>
+      <string name="tower_bridge1">puente de la torre</string>
+      
+     <string name="trevi_fountain">Famosa fuente en Roma</string>
+      <string name="colosseum">Famoso monumento en Roma</string>
+      <string name="eiffel">Monumento famoso en Francia</string>
+      <string name="tower_bridge">Famoso monumento en Londres</string>
+
+</resources>
